@@ -7,3 +7,7 @@
 - offset-path.html 使用新的属性，存在兼容问题
 - stroke.html 使用stroke的相关属性取巧，但是存在精度不高的问题。
 
+预览：  
+https://aimluo.github.io/animate_svg_loading/offset-path.html  
+https://aimluo.github.io/animate_svg_loading/orginal.html
+https://aimluo.github.io/animate_svg_loading/stroke.html
