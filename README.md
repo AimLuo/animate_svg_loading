@@ -9,5 +9,5 @@
 
 预览：  
 https://aimluo.github.io/animate_svg_loading/offset-path.html  
-https://aimluo.github.io/animate_svg_loading/orginal.html
+https://aimluo.github.io/animate_svg_loading/orginal.html 
 https://aimluo.github.io/animate_svg_loading/stroke.html
